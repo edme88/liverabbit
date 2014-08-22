@@ -1,3 +1,1 @@
-# liverabbit
-
-a [Sails](http://sailsjs.org) application
+[ ![Codeship Status for edme88/liverabbit](https://codeship.io/projects/955d42e0-0c7d-0132-9858-121f4cfeea24/status)](https://codeship.io/projects/32199)

@@ -1,4 +1,3 @@
-liverabbit
-==========
+# liverabbit
 
-Sails para Cloud Computing
+a [Sails](http://sailsjs.org) application
